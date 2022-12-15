@@ -1,0 +1,32 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "tipo": "cabelo",
+            "lista_produtos": [
+                {
+                    "id": 1,
+                    "nome_produto": "Shampoo",
+                    "lista_especificacoes_cabelos": [
+                        {
+                            "id": 1,
+                            "tipo_cabelo": "Liso",
+                            "cores": [
+
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "tipo": "unhas"
+        }
+    ],
+    "servicos": [
+        {
+
+        }
+    ]
+}
