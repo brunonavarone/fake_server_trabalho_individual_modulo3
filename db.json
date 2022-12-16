@@ -1,32 +1,89 @@
 {
-    "produtos": [
+    "Produtos": [
         {
             "id": 1,
-            "tipo": "cabelo",
-            "lista_produtos": [
-                {
-                    "id": 1,
-                    "nome_produto": "Shampoo",
-                    "lista_especificacoes_cabelos": [
-                        {
-                            "id": 1,
-                            "tipo_cabelo": "Liso",
-                            "cores": [
-
-                            ]
-                        }
-                    ]
-                }
-            ]
+            "Categoria": "Cabelo",
+            "Tipo de Produto": "Creme hidrante",
+            "Preço": 12.00
+            
         },
+
         {
             "id": 2,
-            "tipo": "unhas"
-        }
-    ],
-    "servicos": [
-        {
+            "Categoria": "Cabelo",
+            "Tipo de Produto":"Creme alisante",
+            "Preço": 14.00
+        },
 
+        {
+            "id": 3,
+            "Categoria": "Cabelo",
+            "Tipo de Produto": "Condicionador",
+            "Preço": 12.00
+        },
+
+        {
+            "id": 4,
+            "Categoria": "Cabelo",
+            "Tipo de Produto": "Shampoo",
+            "Preço": 12.00
+        },
+
+        {
+            "id": 5,
+            "Categoria": "Unhas",
+            "Tipo de Produto": "Esmalte",
+            "Preço": 5.00
+        }
+
+
+    ],
+
+    "Servicos": [
+        {
+            "id": 1,
+            "Categoria": "Unhas",
+            "Tipo de serviço": "Manicure",
+            "Preço": 20.00
+            
+        },
+
+        {
+            "id": 2,
+            "Categoria": "Pés",
+            "Tipo de serviço": "Pedicure",
+            "Preço": 15.00
+        },
+
+        {
+            "id": 3,
+            "Categoria": "Cabelo",
+            "Tipo de serviço": "Corte",
+            "Preço": 60.00  
+        },
+
+        {
+            "id": 5,
+            "Categoria": "Cabelo",
+            "Tipo de serviço": "Corte e Pintura",
+            "Preço": 150.00  
+        },
+
+        {
+            "id": 5,
+            "Categoria": "Cabelo",
+            "Tipo de serviço": "Alisamento",
+            "Preço": 130.00  
+        }
+
+    ], 
+
+    "Usuarios": [
+        {
+            "id": 1,
+            "Classificação": "",
+            "Nome": "Bruno"
+            
         }
     ]
 }
