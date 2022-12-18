@@ -124,31 +124,31 @@
         {
             "id": 1,
             "Nome": "Creme Hidratante",
-            "Foto": ""
+            "Foto": "https://raw.githubusercontent.com/brunonavarone/fake_server_trabalho_individual_modulo3/main/imgs/creme_hidratante.jpg"
         },
             
         {
             "id": 2,
             "Nome": "Creme Alisante",
-            "Foto": ""
+            "Foto": "https://raw.githubusercontent.com/brunonavarone/fake_server_trabalho_individual_modulo3/main/imgs/creme_alisante.jpg"
         },
 
         {
             "id": 3,
             "Nome": "Condicionador",
-            "Foto": ""
+            "Foto": "https://raw.githubusercontent.com/brunonavarone/fake_server_trabalho_individual_modulo3/main/imgs/condicionador.jpg"
         },
 
         {
             "id": 4,
             "Nome": "Shampoo",
-            "Foto": ""
+            "Foto": "https://raw.githubusercontent.com/brunonavarone/fake_server_trabalho_individual_modulo3/main/imgs/shampoo.jpg"
         },
 
         {
             "id": 5,
             "Nome": "Esmalte",
-            "Foto": ""
+            "Foto": "https://raw.githubusercontent.com/brunonavarone/fake_server_trabalho_individual_modulo3/main/imgs/esmalte.jpg"
         }
     ]
 }

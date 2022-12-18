@@ -1,0 +1,18 @@
+{
+    "GET /Produtos": "GET/Produtos/get",
+    "POST /Produtos": "POST/Produtos/create",
+    "PUT /Produtos": "PUT/Produtos/update",
+    "DELETE /Produtos": "DELETE/Produtos/delete",
+    "GET /Servicos": "GET/Servicos/get",
+    "POST /Servicos": "POST/Servicos/create",
+    "PUT /Servicos": "PUT/Servicos/update",
+    "DELETE /Servicos": "DELETE/Servicos/delete",
+    "GET /Usuarios": "GET/Usuarios/get",
+    "POST /Usuarios": "POST/Usuarios/create",
+    "PUT /Usuarios": "PUT/Usuarios/update",
+    "DELETE /Usuarios": "DELETE/Usuarios/delete",
+    "GET /Imagens_dos_produtos": "GET/Imagens_dos_produtos/get",
+    "POST /Imagens_dos_produtos": "POST/Imagens_dos_produtos/create",
+    "PUT /Imagens_dos_produtos": "PUT/Imagens_dos_produtos/update",
+    "DELETE /Imagens_dos_produtos": "DELETE/Imagens_dos_produtos/delete"
+  }
