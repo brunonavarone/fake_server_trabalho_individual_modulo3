@@ -63,7 +63,7 @@
         },
 
         {
-            "id": 5,
+            "id": 4,
             "Categoria": "Cabelo",
             "Tipo de serviço": "Corte e Pintura",
             "Preço": 150.00  
@@ -81,9 +81,74 @@
     "Usuarios": [
         {
             "id": 1,
-            "Classificação": "",
-            "Nome": "Bruno"
+            "Tipo de usuário": "Funcionário",
+            "Cargo": "Dono da empresa(CEO)",
+            "Nome": "Bruno",
+            "Telefone": "(21) 00000-1111"
+        }, 
+
+        {
+            "id": 2,
+            "Tipo de usuário": "Funcionário",
+            "Cargo": "Cabeleireiro",
+            "Nome": "Monara",
+            "Telefone": "(21) 02424-0000"
+        },
+
+        {
+            "id": 3,
+            "Tipo de usuário": "Funcionário",
+            "Cargo": "Atendente",
+            "Nome": "Leandra",
+            "Telefone": "(21) 90000-1100"
+        },
+
+        {
+            "id": 4,
+            "Tipo de usuário": "Cliente",
+            "Tipo de cadastro": "VIP",
+            "Nome": "Monildo",
+            "Telefone": "(21) 00000-1111"
+        },
+
+        {
+            "id": 5,
+            "Tipo de usuário": "Cliente",
+            "Tipo de cadastro": "Comum",
+            "Nome": "Mônica",
+            "Telefone": "(21) 00000-1111"
+        }
+    ], 
+
+    "Imagens_dos_produtos": [
+        {
+            "id": 1,
+            "Nome": "Creme Hidratante",
+            "Foto": ""
+        },
             
+        {
+            "id": 2,
+            "Nome": "Creme Alisante",
+            "Foto": ""
+        },
+
+        {
+            "id": 3,
+            "Nome": "Condicionador",
+            "Foto": ""
+        },
+
+        {
+            "id": 4,
+            "Nome": "Shampoo",
+            "Foto": ""
+        },
+
+        {
+            "id": 5,
+            "Nome": "Esmalte",
+            "Foto": ""
         }
     ]
 }
