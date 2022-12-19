@@ -22,6 +22,7 @@
 ####    ◼ Ex: Rota criada automática = “ POST /notas/” | Rota personalizada = “POST /notas/create”.
 ### ⇨ Ter uma rota onde tem uma lista de itens/produtos em que cada item/produto contenha um link de foto.
 
+## Tema do projeto: Salão de beleza
 
 #### Link para abrir o servirdor
 ##### https://fake-server-projetoindividual.onrender.com/
