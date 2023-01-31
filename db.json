@@ -286,46 +286,46 @@
     "Usuarios": [
         {
             "id": 1,
-            "Tipo de usuário": "Funcionario",
-            "Cargo": "Socio da empresa(CEO)",
-            "Nome": "Bruno",
-            "Telefone": "(21) 00000-2711",
+            "tipoDeUsuario": "Funcionário",
+            "cargo": "Socio da empresa(CEO)",
+            "nome": "Bruno",
+            "telefone": "(21) 00000-2711",
             "categoria_id":8
         }, 
 
         {
             "id": 2,
-            "Tipo de usuário": "Funcionario",
-            "Cargo": "Socio da empresa(admistradora)",
-            "Nome": "Emanuella",
-            "Telefone": "(21) 02424-0200",
+            "tipoDeUsuário": "Funcionário",
+            "cargo": "Sócio da empresa(admistradora)",
+            "nome": "Emanuella",
+            "telefone": "(21) 02424-0200",
             "categoria_id":8
         },
 
         {
             "id": 3,
-            "Tipo de usuário": "Funcionário",
-            "Cargo": "Socio da empresa(vice-presidente)",
-            "Nome": "Marcos",
-            "Telefone": "(21) 90000-1100",
+            "tipoDeUsuário": "Funcionário",
+            "cargo": "Socio da empresa(vice-presidente)",
+            "nome": "Marcos",
+            "telefone": "(21) 90000-1100",
             "categoria_id":8
         },
 
         {
             "id": 4,
-            "Tipo de usuário": "Funcionario",
-            "Tipo de cadastro": "Socio da empresa(fornecedor)",
-            "Nome": "Felipe",
-            "Telefone": "(21) 00000-1111",
+            "tipoDeUsuário": "Funcionário",
+            "cargo": "Sócio da empresa(fornecedor)",
+            "nome": "Felipe",
+            "telefone": "(21) 00000-1111",
             "categoria_id":8
         },
 
         {
             "id": 5,
-            "Tipo de usuário": "Funcionario",
-            "Tipo de cadastro": "Socio da empresa(hairstyle)",
-            "Nome": "Viviane",
-            "Telefone": "(21) 00000-1421",
+            "tipoDeUsuário": "Funcionário",
+            "cargo": "Sócio da empresa(hairstyle)",
+            "nome": "Viviane",
+            "telefone": "(21) 00000-1421",
             "categoria_id":8
         }
     ], 
