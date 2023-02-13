@@ -1,5 +1,5 @@
 {
-    "Produtos": [
+    "produtos": [
         {
             "id":1,
             "tipo":"Shampoo",
@@ -77,7 +77,7 @@
 
     ],
 
-    "Servicos": [
+    "servicos": [
         {
             "id":1,
             "tipo":"Penteados de madrinha",
@@ -292,7 +292,7 @@
     ],
 
 
-    "Usuarios": [
+    "usuarios": [
         {
             "id": 1,
             "tipoDeUsuario": "Funcionário",
@@ -339,7 +339,7 @@
         }
     ], 
 
-    "cliente":[
+    "clientes":[
         {
             "id":1,
             "nome": "Elenir",
@@ -419,42 +419,6 @@
             "email":"iza.lene@gmail.com",
             "endereco":"rua yet to come",
             "categoria_id":9
-        }
-    ],
-
-
-
-
-
-    "Imagens_dos_produtos": [
-        {
-            "id": 1,
-            "Nome": "Creme Hidratante",
-            "Foto": "https://raw.githubusercontent.com/brunonavarone/fake_server_trabalho_individual_modulo3/main/imgs/creme_hidratante.jpg"
-        },
-            
-        {
-            "id": 2,
-            "Nome": "Creme Alisante",
-            "Foto": "https://raw.githubusercontent.com/brunonavarone/fake_server_trabalho_individual_modulo3/main/imgs/creme_alisante.jpg"
-        },
-
-        {
-            "id": 3,
-            "Nome": "Condicionador",
-            "Foto": "https://raw.githubusercontent.com/brunonavarone/fake_server_trabalho_individual_modulo3/main/imgs/condicionador.jpg"
-        },
-
-        {
-            "id": 4,
-            "Nome": "Shampoo",
-            "Foto": "https://raw.githubusercontent.com/brunonavarone/fake_server_trabalho_individual_modulo3/main/imgs/shampoo.jpg"
-        },
-
-        {
-            "id": 5,
-            "Nome": "Esmalte",
-            "Foto": "https://raw.githubusercontent.com/brunonavarone/fake_server_trabalho_individual_modulo3/main/imgs/esmalte.jpg"
         }
     ],
 
