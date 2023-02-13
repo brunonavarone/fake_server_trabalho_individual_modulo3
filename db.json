@@ -5,6 +5,7 @@
             "tipo":"Shampoo",
             "descricao": "Tem a funcao de limpar os fios, tirando o excesso de sujeira e fazendo com que o couro cabeludo e comprimento sejam limpos",
             "preco":60,
+            "imagem": "https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/Imagens%20dos%20produtos%20Tech%20hair/TechHair_Shampoo2.jpg",
             "categoria_id":1
         },
         {
@@ -12,6 +13,7 @@
             "tipo":"Condicionador",
             "descricao": "Depois da limpeza o condicionador tem como funcao fechar as cuticulas dos fio que foram abertas pelo o uso do shampoo",
             "preco":40,
+            "imagem": "https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/Imagens%20dos%20produtos%20Tech%20hair/TechHair_Condicionador.jpg",
             "categoria_id":1
         },
         {
@@ -19,6 +21,7 @@
             "tipo":"Creme de hidratacao",
             "descricao": "De forma objetiva ele repoe a agua da fibra capilar, tendo como resultado um cabelo muito mais hidratado , macio e com menos frizz",
             "preco":70,
+            "imagem": "https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/Imagens%20dos%20produtos%20Tech%20hair/TechHair_M%C3%A1scara_de_Hidrata%C3%A7%C3%A3o.jpg",
             "categoria_id":1
         },
         {
@@ -26,6 +29,7 @@
             "tipo":"Creme de nutricao",
             "descricao": "Tem como objetivo devolver a oleosidade aos fios e e fundamental para cabelos ressecados e indisciplinado, pois esse tratamento deixa os cabelos saudaveis, disciplinados e brilhosos ",
             "preco":75,
+            "imagem": "https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/Imagens%20dos%20produtos%20Tech%20hair/TechHair_M%C3%A1scara_de_Nutri%C3%A7%C3%A3o.jpg",
             "categoria_id":1
         },
         {
@@ -33,6 +37,7 @@
             "tipo":"Creme de reconstrucao",
             "descricao": "A recontrucao age fortalecendo os fios danificados recomendado para cabelos fracos e quebradicos  ",
             "preco":85,
+            "imagem": "https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/Imagens%20dos%20produtos%20Tech%20hair/TechHair_M%C3%A1scara_de_Reconstru%C3%A7%C3%A3o.jpg",
             "categoria_id":1
         },
         {
@@ -40,6 +45,7 @@
             "tipo":"Reparador de pontas",
             "descricao": "Ele serve como um finalizador hidratando, nutrindo, desembaracando e selando a fibra capilar",
             "preco":28,
+            "imagem": "https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/Imagens%20dos%20produtos%20Tech%20hair/TechHair_Reparador_de_Pontas.jpg",
             "categoria_id":1
         },
         {
@@ -47,6 +53,7 @@
             "tipo":"leave in",
             "descricao": "Produto que ajuda ao pentear, protege dos sol, dar brilho, diminui frizz e reduz as pontas duplas",
             "preco":30,
+            "imagem": "https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/Imagens%20dos%20produtos%20Tech%20hair/TechHair_LeaveIn.jpg",
             "categoria_id":1
         },
         {
@@ -54,6 +61,7 @@
             "tipo":"Protetor termico",
             "descricao": "Tem como finalidade proteger os fios do calor do secador, chapinha e babyliss",
             "preco":43,
+            "imagem": "https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/Imagens%20dos%20produtos%20Tech%20hair/TechHair_ProtetorT%C3%A9rmico.jpg",
             "categoria_id":1
         },
         {
@@ -61,6 +69,7 @@
             "tipo":"Pre Poo",
             "descricao": "Produto pra ser utilizado antes de lavar os cabelos para que a acao do shampoo nao agrida os fios",
             "preco":97,
+            "imagem":"https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/Imagens%20dos%20produtos%20Tech%20hair/TechHair_Pr%C3%A9-Poo.jpg",
             "categoria_id":1
         }
 
