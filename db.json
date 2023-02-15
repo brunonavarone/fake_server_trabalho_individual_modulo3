@@ -81,22 +81,22 @@
         {
             "id":1,
             "tipo":"Penteados de madrinha",
-            "descricao": "Preparacao com escova, aplicacao de produtos,finalizacao com a montagem do penteado",
+            "descricao": "Preparaçãoo com escova, aplicação de produtos,finalizacao com a montagem do penteado",
             "preco": 250,
             "tamanhoDoCabelo": ["curto","medio", "longo"],
             "categoria_id": 2   
         },
         {
             "id":2,
-            "tipo":"penteados de noiva",
-            "descricao": "preparacao com escova,aplicacao de produtos, babyliss, montagem do penteado com acessorios e finalizacao com a colocacao do veu",
+            "tipo":"Penteados de noiva",
+            "descricao": "Preparação com escova,aplicacao de produtos, babyliss, montagem do penteado com acessórios e finalizacao com a colocação do véu",
             "preco": 500,
             "tamanhoDoCabelo": ["curto","medio", "longo"],
             "categoria_id": 2
         },
         {
             "id":3,
-            "tipo":"penteados de daminha",
+            "tipo":"Penteados de daminha",
             "descricao": "preparacao do cabelo, aplicacao de produtos, babyliss, finalizacao com a montagem do penteado com acessorios",
             "preco":150,
             "tamanhoDoCabelo": ["curto","medio", "longo"],
@@ -104,7 +104,7 @@
         },
         {
             "id":4,
-            "tipo":"corte chanel",
+            "tipo":"Corte Chanel",
             "descricao": "E um corte que nunca sai de moda, geralmente ele tem os fios completamente alinhados e retinhos na base , mas dependendo da estrutura do cabelo ele pode ter leves camadas",
             "preco":50,
             "tamanhoDoCabelo":["curto","medio","longo"],
@@ -112,7 +112,7 @@
         },
         {
             "id":5,
-            "tipo":"corte chanel de bico",
+            "tipo":"Corte chanel de bico",
             "descricao": "E basicamento o mesmo processo so que a parte da frente vai em direcao a linha da boca, a ponta do queixo ou ate um pouco abaixo dos ombros",
             "preco":50,
             "tamanhoDoCabelo":[],
@@ -128,7 +128,7 @@
         },
         {
             "id":7,
-            "tipo":"corte repicado",
+            "tipo":"Corte repicado",
             "descricao": "Esse corte pode ser realizado em qualquer tamanho de cabelo com as camadas seguindo um angulo de 90 graus",
             "preco":50,
             "tamanhoDoCabelo":[],
@@ -136,7 +136,7 @@
         },
         {
             "id":8,
-            "tipo":"corte pixie cut",
+            "tipo":"Corte pixie cut",
             "descricao": "E um corte bem curtinho também conhecido com joaozinho",
             "preco":50,
             "tamanhoDoCabelo":[],
@@ -144,7 +144,7 @@
         },
         {
             "id":9,
-            "tipo":"corte under cut",
+            "tipo":"Corte under cut",
             "descricao": "E aquele corte com um estilo bem diferente em que nucas e laterais da cabeça sao raspadas a 0 graus ",
             "preco":50,
             "tamanhoDoCabelo":[],
@@ -152,7 +152,7 @@
         },
         {
             "id":10,
-            "tipo":"corte em u",
+            "tipo":"Corte em U",
             "descricao": "Como o nome ja diz o corte e realizado em formato de u as pontas sao arredondadas sem perder o comprimento do cabelo",
             "preco":50,
             "tamanhoDoCabelo":[],
@@ -160,7 +160,7 @@
         },
         {
             "id":11,
-            "tipo":"corte em v",
+            "tipo":"Corte em V",
             "descricao": "E basicamento parecido com o corte u só que traz um resultado mais marcante, pois seu acabamento e bem anguloso e fomra a letra v quando visto de costa, com as laterais bem mais curtas e o centro mais comprido e definido",
             "preco":50,
             "tamanhoDoCabelo":[],
@@ -176,7 +176,7 @@
         },
         {
             "id":13,
-            "tipo":"maquiagem completa",
+            "tipo":"Maquiagem completa",
             "descricao": "preparacao de pele antes da aplicacao da base, contorno,po, blush, sombras nos olhos,pigmentos, glitter,cilios postico,batom",
             "preco":90,
             "tamanhoDoCabelo":[],
@@ -184,7 +184,7 @@
         }, 
         {
             "id":14,
-            "tipo":"maquiagem para crianca",
+            "tipo":"Maquiagem para crianca",
             "descricao": "aplicacao do protetor solar, blush, sombras nos olhos,batom",
             "preco":40,
             "tamanhoDoCabelo":[],
@@ -192,7 +192,7 @@
         },
         {
             "id":15,
-            "tipo":"manicure",
+            "tipo":"Manicure",
             "descricao": "",
             "preco":30,
             "tamanhoDoCabelo":[],
@@ -200,7 +200,7 @@
         },  
         {
             "id":16,
-            "tipo":"pedicure",
+            "tipo":"Pedicure",
             "descricao": "",
             "preco":40,
             "tamanhoDoCabelo":[],
@@ -208,7 +208,7 @@
         },
         {
             "id":17,
-            "tipo":"designer de sobrancelha",
+            "tipo":"Designer de sobrancelha",
             "descricao": "retirar os fios",
             "preco":18,
             "tamanhoDoCabelo":[],
@@ -216,7 +216,7 @@
         }, 
         {
             "id":18,
-            "tipo":"designer de sobrancelha com henna",
+            "tipo":"Designer de sobrancelha com henna",
             "descricao": "retirar os fios e aplicar a henna",
             "preco":22,
             "tamanhoDoCabelo":[],
@@ -224,7 +224,7 @@
         },
         {
             "id":19,
-            "tipo":"aplicacao de cilios",
+            "tipo":"Aplicacao de cilios",
             "descricao": "",
             "preco":55,
             "tamanhoDoCabelo":[],
@@ -296,8 +296,9 @@
         {
             "id": 1,
             "tipoDeUsuario": "Funcionário",
-            "cargo": "Socio da empresa(CEO)",
+            "cargo": "Sócio da empresa(CEO)",
             "nome": "Bruno",
+            "foto": "https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/src/images/bruno.jpg",
             "telefone": "(21) 00000-2711",
             "categoria_id":8
         }, 
@@ -305,8 +306,9 @@
         {
             "id": 2,
             "tipoDeUsuário": "Funcionário",
-            "cargo": "Sócio da empresa(admistradora)",
+            "cargo": "Sócia da empresa(admistradora)",
             "nome": "Emanuella",
+            "foto":"https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/src/images/manu.jpeg",
             "telefone": "(21) 02424-0200",
             "categoria_id":8
         },
@@ -314,8 +316,9 @@
         {
             "id": 3,
             "tipoDeUsuário": "Funcionário",
-            "cargo": "Socio da empresa(vice-presidente)",
+            "cargo": "Sócio da empresa(vice-presidente)",
             "nome": "Marcos",
+            "foto":"https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/src/images/marcos.jpg",
             "telefone": "(21) 90000-1100",
             "categoria_id":8
         },
@@ -325,6 +328,7 @@
             "tipoDeUsuário": "Funcionário",
             "cargo": "Sócio da empresa(fornecedor)",
             "nome": "Felipe",
+            "foto":"https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/src/images/felippe.jpeg",
             "telefone": "(21) 00000-1111",
             "categoria_id":8
         },
@@ -332,8 +336,9 @@
         {
             "id": 5,
             "tipoDeUsuário": "Funcionário",
-            "cargo": "Sócio da empresa(hairstyle)",
+            "cargo": "Sócia da empresa(hairstyle)",
             "nome": "Viviane",
+            "foto":"https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/src/images/vivi.jpg",
             "telefone": "(21) 00000-1421",
             "categoria_id":8
         }
