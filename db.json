@@ -298,7 +298,7 @@
             "tipoDeUsuario": "Funcionário",
             "cargo": "Sócio da empresa(CEO)",
             "nome": "Bruno",
-            "foto": "https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/src/images/bruno.jpg",
+            "foto": "https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/branch_principal/src/images/bruno.jpg",
             "telefone": "(21) 00000-2711",
             "categoria_id":8
         }, 
@@ -308,7 +308,7 @@
             "tipoDeUsuário": "Funcionário",
             "cargo": "Sócia da empresa(admistradora)",
             "nome": "Emanuella",
-            "foto":"https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/src/images/manu.jpeg",
+            "foto":"https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/branch_principal/src/images/manu.jpeg",
             "telefone": "(21) 02424-0200",
             "categoria_id":8
         },
@@ -318,7 +318,7 @@
             "tipoDeUsuário": "Funcionário",
             "cargo": "Sócio da empresa(vice-presidente)",
             "nome": "Marcos",
-            "foto":"https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/src/images/marcos.jpg",
+            "foto":"https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/branch_principal/src/images/marcos.jpg",
             "telefone": "(21) 90000-1100",
             "categoria_id":8
         },
@@ -328,7 +328,7 @@
             "tipoDeUsuário": "Funcionário",
             "cargo": "Sócio da empresa(fornecedor)",
             "nome": "Felipe",
-            "foto":"https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/src/images/felippe.jpeg",
+            "foto":"https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/branch_principal/src/images/felippe.jpeg",
             "telefone": "(21) 00000-1111",
             "categoria_id":8
         },
@@ -338,7 +338,7 @@
             "tipoDeUsuário": "Funcionário",
             "cargo": "Sócia da empresa(hairstyle)",
             "nome": "Viviane",
-            "foto":"https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/main/src/images/vivi.jpg",
+            "foto":"https://raw.githubusercontent.com/brunonavarone/Projeto_Axios/branch_principal/src/images/vivi.jpg",
             "telefone": "(21) 00000-1421",
             "categoria_id":8
         }
